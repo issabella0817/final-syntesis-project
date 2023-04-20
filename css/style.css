@@ -165,14 +165,17 @@ footer a:hover {
 }
 #lorentz {
   display: block;
-  filter: drop-shadow (green 10px 10px);
-  margin-left: 180px;
-  padding: 1rem 1rem;
+  filter: drop-shadow (5px 5px green);
+  margin-left: auto;
+  margin-right: auto;
+  
 }
 #marcosdereferencia {
-  filter: drop-shadow (green 10px 10px);
-  margin-left: 180px;
-  padding: 1rem 1rem;
+  display: block;
+  filter: drop-shadow (5px 5px orange);
+  margin-left: auto;
+  margin-right: auto;
+ 
 }
 #coordinado {
   display: block;
@@ -188,10 +191,9 @@ footer a:hover {
 
 #otrasmagnitudes {
   display: block;
-  margin-left: 300px;
-  margin-right: 300px;
-  display: block;
-  filter: grayscale(15%) drop-shadow(7px 7px darkblue);
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(7px 7px darkblue);
 }
 #AlbertEinstein{
   display: block;
