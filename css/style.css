@@ -125,12 +125,12 @@ footer a:hover {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color:salmon;
+  background-color:lightsalmon;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: lavender;
+  background-color: rgb(255, 142, 255);
 }
 
 /* Style the tab content */
